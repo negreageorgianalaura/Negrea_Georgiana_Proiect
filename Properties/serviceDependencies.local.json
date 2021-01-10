@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "Negrea_Georgiana_proiectContext"
+    }
+  }
+}
